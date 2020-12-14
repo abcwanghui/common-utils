@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.common.utils</groupId>
+  <artifactId>common-utils</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20201214151849</lastUpdated>
+  </versioning>
+</metadata>
